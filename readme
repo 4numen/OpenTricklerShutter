@@ -1,0 +1,13 @@
+This is a temporary space to hold experimental front assembly with shutter for Open Trickler.
+
+Be aware - it is not yet supported by OpenTrickler firmware.
+
+Shutter operation requires two 9g servos (e.g. MG90).
+One of the servos needs to be reversed in order for two servos to operate from common PWM signal.
+
+Parts list:
+-two mg90 servos and screws that come with them
+-four m3 10mm screws to attach servo mounts
+-four m3 inserts for the assembly as per Open Trickler project
+-one servo reverser or servo revers moddification
+-one servo Y cable to join servo cables
