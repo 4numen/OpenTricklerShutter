@@ -6,8 +6,21 @@ Shutter operation requires two 9g servos (e.g. MG90).
 One of the servos needs to be reversed in order for two servos to operate from common PWM signal.
 
 Parts list:
--two mg90 servos and screws that come with them
--four m3 10mm screws to attach servo mounts
--four m3 inserts for the assembly as per Open Trickler project
--one servo reverser or servo revers moddification
--one servo Y cable to join servo cables
+-2x mg90 servos and screws that come with them (2x servo mouning screws + 1x horm mounting screw)
+-4x m3 10mm screws to attach servo mounts
+-4x m3 inserts for the assembly as per Open Trickler project
+-1x universal servo reverser (4-6v) or servo revers moddification <link> https://www.aliexpress.com/item/1005005334996182.html?spm=a2g0o.productlist.main.1.34d97ea2vN4uLf&algo_pvid=ec48d0f8-7748-4ebb-99c8-f0d147cfabc8&algo_exp_id=ec48d0f8-7748-4ebb-99c8-f0d147cfabc8-0&pdp_npi=4%40dis%21PLN%218.76%218.76%21%21%2115.56%2115.55%21%402103893b17120051183643452e9bdf%2112000032651066104%21sea%21PL%21128038240%21&curPageLogUid=9MOoOg8vEuu7&utparam-url=scene%3Asearch%7Cquery_from%3A <\link>
+-1x servo Y extension cord cable https://www.aliexpress.com/item/1005005323666825.html?spm=a2g0o.productlist.main.1.778d2db56CWW9S&algo_pvid=b0c993a1-6f7a-4c37-997b-7dc273f44221&algo_exp_id=b0c993a1-6f7a-4c37-997b-7dc273f44221-0&pdp_npi=4%40dis%21EUR%211.85%211.70%21%21%2114.11%2113.02%21%402103894417120052889387335ecea6%2112000033446666469%21sea%21PL%21128038240%21&curPageLogUid=2xiOFyIT3MCd&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+If you decide to do the servo reverse mod, please refer to below giode.
+http://www.rccrawler.com/forum/electronics/53956-step-step-servo-reversing.html
+
+In short:
+0.Move servo to an end possition (does not matter which end
+1.Unscrew & take motor and potentiometer out
+2.Move gears to the opposite end possition
+3.Switch motor polarity
+4.Switch side pins of servo position potentiometer, leave middle one connected
+5.Re-assemble
+
+
