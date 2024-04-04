@@ -23,4 +23,13 @@ In short:
 4.Switch side pins of servo position potentiometer, leave middle one connected
 5.Re-assemble
 
+Servo movement:
+It takes 102 degrees of movement to fully move from open to close.
+It's safest to use middle servo range angles e.g. 30-132 in a 0-180 servo.
+This will help mitigate servo endpoint quality issues or misscalibration douring servo reversal process.
 
+Suggested sequence of assenbly:
+-Maunt servos with installed gears to front assembly
+-Initiate Servo open position
+-install shutter gate in open position
+-screw assembly to plate and the slide
