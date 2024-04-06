@@ -1,0 +1,14 @@
+JJ100B instruction:
+1.Enter scales settings by holding CAL button and powering on the scales.
+2.Use CAL to cycle through settings and TARE to change values.
+3.Set below values:
+C1:1
+C2:1
+C3:6
+C4:33 [when at C4 setting press button above CAL once to increase value by 10]
+C5:0
+C6:0
+
+RS232 settings appear opposite in my case. I have tested with multimeter and have straight cable, yet have to use null-modem setting on PCB.
+
+For JJ100B get male-female RS232
